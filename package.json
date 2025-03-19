@@ -1,0 +1,13 @@
+{
+  "name": "discord-creative-bot",
+  "version": "1.0.0",
+  "main": "src/bot.js",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "mongoose": "^7.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "scripts": {
+    "start": "node src/bot.js"
+  }
+}
